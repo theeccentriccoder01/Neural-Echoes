@@ -46,7 +46,7 @@
 
 **9.** Setup a reference(remote) to the original repository to get all the changes from the remote.
 ```
-   git remote add upstream https://github.com/theeccentriccoder/Neural-Echoes.git
+   git remote add upstream https://github.com/theeccentriccoder01/Neural-Echoes.git
 ```
 
 **10.** Check the remotes for this repository.
